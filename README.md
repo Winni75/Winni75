@@ -1,52 +1,45 @@
-# 👋 Hallo, ich bin Winfried! 🇩🇪 / Hi, I'm Winfried! 🇬🇧  
+# 👋 Hi, I'm Winfried  
 
-💻 Ich befinde mich aktuell in einer **Umschulung zum Fachinformatiker für Anwendungsentwicklung** und baue mir Schritt für Schritt ein starkes Fundament in der Softwareentwicklung auf.  
-💻 I'm currently in a **retraining program to become an Application Developer (Fachinformatiker für Anwendungsentwicklung)** and step by step I'm building a solid foundation in software development.  
+## 🏭 Industry meets Software  
+
+I bring over 30 years of professional experience as an industrial mechanic in machine and system technology. Throughout my career, I have worked with hydraulic presses, straightening machines, as well as CNC milling and grinding machines.
+
+Since 2025, I have been retraining as an **Application Developer (Fachinformatiker für Anwendungsentwicklung)** and continuously expanding my skills in modern software development.
+
+My goal is to combine industrial expertise with software engineering — especially in the field of **Embedded Systems** and industrial applications.
 
 ---
 
-## 🚀 Technologien & Schwerpunkte 🇩🇪 / Technologies & Focus 🇬🇧  
+## 🚀 Technologies & Focus  
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-- **C# / .NET Core** – Backend-Entwicklung, APIs, Konsolen- und Desktop-Anwendungen  
-- **C# / .NET Core** – Backend development, APIs, console and desktop applications  
-
-- **Python** – Automatisierungen, Datenverarbeitung und kleinere Projekte  
-- **Python** – Automations, data processing, and smaller projects  
-
-- Erste Erfahrungen mit **.NET MAUI** für plattformübergreifende Apps  
-- First hands-on experience with **.NET MAUI** for cross-platform apps  
+- **C++** – fundamentals of hardware-related and system-level development  
+- **C# / .NET** – backend development, APIs, console and desktop applications  
+- **Python** – automation and data processing  
+- Version control with Git  
+- Clean code and structured software design  
 
 ---
 
-## 🎯 Ziele 🇩🇪 / Goals 🇬🇧  
+## 🎯 Focus & Goals  
 
-- Mein Wissen in moderner Softwareentwicklung ausbauen  
-- Expand my knowledge in modern software development  
-
-- Praxisnahe Projekte umsetzen und hier auf GitHub teilen  
-- Build practical projects and share them here on GitHub  
-
-- Langfristig als Entwickler in spannenden Projekten mitwirken  
-- Contribute to exciting projects as a developer in the long run  
+- Develop practical projects with industrial relevance  
+- Deepen my knowledge in embedded systems  
+- Write structured, maintainable, and robust software  
+- Transparently document technical projects in this repository  
 
 ---
 
-## 📌 Aktuell 🇩🇪 / Currently 🇬🇧  
+## 📌 Currently  
 
-- 📚 In Umschulung zum **Fachinformatiker für Anwendungsentwicklung**  
-- 📚 Retraining to become an **Application Developer (Fachinformatiker für Anwendungsentwicklung)**  
-
-- 🛠️ Lerne täglich dazu – von **Clean Code** bis zu **Best Practices**  
-- 🛠️ Learning every day – from **Clean Code** to **Best Practices**  
-
-- 🚧 Arbeite an kleineren Projekten, die hier nach und nach erscheinen  
-- 🚧 Working on small projects that will gradually appear here  
+- Retraining as an Application Developer  
+- Building practical projects using C++, C#, and Python  
+- Strengthening my foundation in software architecture and best practices  
 
 ---
 
-✨ Schau dich gerne in meinen Repositories um – Feedback und Austausch sind immer willkommen!  
-✨ Feel free to check out my repositories – feedback and collaboration are always welcome!  
+✨ Open to feedback, technical discussions, and collaboration.
